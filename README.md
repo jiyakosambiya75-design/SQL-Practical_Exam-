@@ -655,6 +655,13 @@ By working through this project, a learner can practice:
 -   Using conditional logic through `CASE` expressions.
 -   Identifying and debugging SQL syntax and schema errors.
 
+
+
+
+
+
+
+
 ## 👨‍💻 Project Information
 
   Detail         Information
@@ -675,7 +682,6 @@ foundation for learning how structured data can be managed and explored.
 
 Keep experimenting, keep querying, and keep learning! 🚀
 
-::: {align="center"}
 ### ⭐ If you find this project useful, feel free to star the repository!
 
 **Made with 💙, SQL, and a passion for learning.**
