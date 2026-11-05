@@ -6,8 +6,7 @@ USE Student_performance_Attandence_Tracker;
 -- 1. DEPARTMENTS TABLE
 CREATE TABLE departments (
     Department_ID INT PRIMARY KEY,
-    Department_Name VARCHAR(50)
-);
+    Department_Name VARCHAR(50));
 
 INSERT INTO departments VALUES
 (101, 'Computer Science'),
