@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 🎓 Student Performance & Attendance Tracker
 
 ### 📚 A SQL Database Management Project for Student Records, Academic Performance & Attendance Monitoring
