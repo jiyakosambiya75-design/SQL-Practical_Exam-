@@ -79,6 +79,8 @@ CREATE TABLE courses (
     Courses_Name VARCHAR(50),
     Department_ID INT,
     Faculty_ID INT 
+    FOREIGN KEY (Department_ID)
+    REFERENCES departments(Department_ID)
 );
 
 INSERT INTO courses VALUES
