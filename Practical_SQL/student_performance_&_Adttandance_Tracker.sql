@@ -78,9 +78,11 @@ CREATE TABLE courses (
     Courses_ID INT PRIMARY KEY,
     Courses_Name VARCHAR(50),
     Department_ID INT,
-    Faculty_ID INT 
+    Faculty_ID INT,
     FOREIGN KEY (Department_ID)
-    REFERENCES departments(Department_ID)
+    REFERENCES departments(Department_ID),
+    FOREIGN KEY (Faculty_ID)
+    REFERENCES faculty(Faculty_ID)
 );
 
 INSERT INTO courses VALUES
